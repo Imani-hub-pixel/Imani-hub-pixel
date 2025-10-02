@@ -14,9 +14,9 @@ I love exploring data, building intelligent systems, and creating efficient back
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)  
-![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Imani-hub-pixel&theme=tokyonight)](https://git.io/streak-stats)  
+![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imani-hub-pixel&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imani-hub-pixel&layout=compact&theme=tokyonight)
 
 ---
 
