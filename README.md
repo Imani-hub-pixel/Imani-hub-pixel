@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Faith Chepngeno
+# Hey, I’m Faith Chepngeno
 
 I’m an **upcoming Backend Developer** and an **AI/ML enthusiast** 🚀.  
 I love exploring data, building intelligent systems, and creating efficient backend solutions.  
