@@ -15,7 +15,7 @@ I enjoy exploring data, building intelligent systems, and creating efficient bac
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Imani-hub-pixel&theme=tokyonight&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Imani-hub-pixel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 ![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imani-hub-pixel&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imani-hub-pixel&layout=compact&theme=tokyonight&hide_border=true)
 
