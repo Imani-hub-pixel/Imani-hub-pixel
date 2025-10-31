@@ -1,7 +1,7 @@
-# Hey, I’m Faith Chepngeno
+# 👋 Hey, I’m Faith Chepngeno
 
-I’m an **upcoming Backend Developer** and an **AI/ML enthusiast** 🚀.  
-I love exploring data, building intelligent systems, and creating efficient backend solutions.  
+I’m an **upcoming Backend Developer** and an **AI/ML enthusiast** 🚀  
+I enjoy exploring data, building intelligent systems, and creating efficient backend solutions.
 
 ---
 
@@ -14,19 +14,24 @@ I love exploring data, building intelligent systems, and creating efficient back
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Imani-hub-pixel&theme=tokyonight)](https://git.io/streak-stats)  
-![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imani-hub-pixel&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imani-hub-pixel&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Imani-hub-pixel&theme=tokyonight&hide_border=true)  
+![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imani-hub-pixel&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imani-hub-pixel&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🌱 Current Focus
-- Improving my **backend development** skills  
+- Sharpening my **backend development** skills  
 - Exploring **machine learning models** and **data visualization**  
-- Building projects that combine **AI with real-world problems**  
+- Building projects that merge **AI with real-world problems**
 
 ---
 
 ### 📫 Connect with Me
-- GitHub: [@Imani-hub-pixel](https://github.com/Imani-hub-pixel)  
-- LinkedIn: www.linkedin.com/in/faith-chepngeno-46506935b  
+- **GitHub:** [@Imani-hub-pixel](https://github.com/Imani-hub-pixel)  
+- **LinkedIn:** [Faith Chepngeno](https://www.linkedin.com/in/faith-chepngeno-46506935b)
+
+---
+
+⭐️ *“Code. Learn. Build. Repeat.”*
