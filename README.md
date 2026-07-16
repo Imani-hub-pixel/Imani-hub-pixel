@@ -1,14 +1,13 @@
 # 👋 Hey, I’m Faith Chepngeno
 
-I’m an **upcoming Backend Developer** and an **AI/ML enthusiast** 🚀  
-I enjoy exploring data, building intelligent systems, and creating efficient backend solutions.
+I’m an **upcoming Data analyst** and an *Data Science enthusiast** 🚀  
 
 ---
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Java, SQL  
-- **Backend:** Django, Flask, Node.js  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Backend:** Django  
+- **Databases:** MySQL, PostgreSQL 
 - **AI/ML:** Scikit-learn, Pandas, NumPy, Matplotlib  
 
 ---
@@ -22,7 +21,7 @@ I enjoy exploring data, building intelligent systems, and creating efficient bac
 ---
 
 ### 🌱 Current Focus
-- Sharpening my **backend development** skills  
+- Sharpening my **Data analysis** skills  
 - Exploring **machine learning models** and **data visualization**  
 - Building projects that merge **AI with real-world problems**
 
