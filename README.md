@@ -1,10 +1,10 @@
-# 👋 Hey, I’m Faith Chepngeno
+# Hey, I’m Faith Chepngeno
 
-I’m an **upcoming Data analyst** and an *Data Science enthusiast** 🚀  
+I’m an **upcoming Data analyst** and a *Data Science enthusiast** 🚀  
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 - **Languages:** Python, Java, SQL  
 - **Backend:** Django  
 - **Databases:** MySQL, PostgreSQL 
@@ -12,25 +12,26 @@ I’m an **upcoming Data analyst** and an *Data Science enthusiast** 🚀
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Imani-hub-pixel)](https://git.io/streak-stats)  
-![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imani-hub-pixel&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imani-hub-pixel&layout=compact&theme=tokyonight&hide_border=true)
+![Faith's GitHub stats](https://github-stats-extended.vercel.app/api?username=Imani-hub-pixel&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Imani-hub-pixel&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
-### 🌱 Current Focus
+###  Current Focus
 - Sharpening my **Data analysis** skills  
 - Exploring **machine learning models** and **data visualization**  
 - Building projects that merge **AI with real-world problems**
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 - **GitHub:** [@Imani-hub-pixel](https://github.com/Imani-hub-pixel)  
 - **LinkedIn:** [Faith Chepngeno](https://www.linkedin.com/in/faith-chepngeno-46506935b)
 
 ---
 
-⭐️ *“Code. Learn. Build. Repeat.”*
+ *“Code. Learn. Build. Repeat.”*
