@@ -5,10 +5,10 @@ I’m an **upcoming Data analyst** and a *Data Science enthusiast** 🚀
 ---
 
 ###  Tech Stack
-- **Languages:** Python, Java, SQL  
-- **Backend:** Django  
+- **Languages:** Python, ava, C++, C, SQL  
+- **Web Technologies:** HTML, CSS, Django Framework  
 - **Databases:** MySQL, PostgreSQL 
-- **AI/ML:** Scikit-learn, Pandas, NumPy, Matplotlib  
+- **AI/ML:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
