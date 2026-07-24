@@ -1,6 +1,6 @@
 # Hey, I’m Faith Chepngeno
 
-I’m an **upcoming Data analyst** and a *Data Science enthusiast** 🚀  
+I’m an **upcoming Data analyst** and a *Data Science enthusiast** 
 
 ---
 
