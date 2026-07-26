@@ -5,7 +5,7 @@ I’m an **upcoming Data analyst** and a *Data Science enthusiast**
 ---
 
 ###  Tech Stack
-- **Languages:** Python, ava, C++, C, SQL  
+- **Languages:** Python, Java, C++, C, SQL  
 - **Web Technologies:** HTML, CSS, Django Framework  
 - **Databases:** MySQL, PostgreSQL 
 - **AI/ML:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
