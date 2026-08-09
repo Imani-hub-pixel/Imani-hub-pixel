@@ -1,14 +1,15 @@
 # Hey, I’m Faith Chepngeno
 
-I’m an **upcoming Data analyst** and a *Data Science enthusiast** 
+I’m  **Data analyst** and a *Data Science enthusiast** 
 
 ---
 
 ###  Tech Stack
 - **Languages:** Python, Java, C++, C, SQL  
-- **Web Technologies:** HTML, CSS, Django Framework  
-- **Databases:** MySQL, PostgreSQL 
-- **AI/ML:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Web Technologies:** HTML, CSS, Django Framework,Streamlit
+- **Databases:** MySQL
+- **Data Visualization:**Power Bi,Seaborn,Matplotlib
+- **AI/ML:** Scikit-learn, Pandas, NumPy
 
 ---
 
